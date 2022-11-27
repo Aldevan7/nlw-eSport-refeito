@@ -57,13 +57,13 @@ const channelListData = [
 const socialListData = [
   {
     url: "https://www.linkedin.com/in/aldevan7",
-    imgUrl: "/public/assets/icons8-linkedin-circled.svg",
-    alt: "Github de Aldevan",
+    imgUrl: "./assets/icons8-linkedin-circled.svg",
+    alt: "Linkedin de Aldevan",
   },
   {
     url: "https://www.github.com/Aldevan7",
-    imgUrl: "/public/assets/github-icon-1.svg",
-    alt: "Twitter",
+    imgUrl: "./assets/github-icon-1.svg",
+    alt: "Github",
   },
   {
     url: "https://www.instagram.com/aldevan7",
@@ -72,7 +72,7 @@ const socialListData = [
   },
   {
     url: "https://twitter.com/Aldevan2609",
-    imgUrl: "/public/assets/twitter.svg",
+    imgUrl: "./assets/twitter.svg",
     alt: "Twitter",
   },
 ]
