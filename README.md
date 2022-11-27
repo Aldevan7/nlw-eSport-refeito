@@ -6,7 +6,7 @@
 
 Projeto refeito com REACT.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://nlw-e-sport-refeito.vercel.app/)
 
 
 ## 🛠 Tecnologias
